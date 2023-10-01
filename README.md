@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jumploop&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jumploop's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumploop&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jumploop&show_icons=true&theme=radical" alt="jumploop's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumploop&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
