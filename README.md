@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jumploop)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### 优惠主机推介
+https://jumploop.github.io/cheap-vps-racknerd/
