@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jumploop)](https://github.com/ryo-ma/github-profile-trophy)
 
+💻 **便宜VPS推荐** 💻
 
-### 优惠主机推介
-https://jumploop.github.io/cheap-vps-racknerd/
+✅[RackNerd 高性价比便宜 VPS 最新优惠活动(2025年)](https://jumploop.github.io/cheap-vps-racknerd/)
