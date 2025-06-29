@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 💻 **便宜VPS推荐** 💻
 
 ✅[RackNerd 高性价比便宜 VPS 最新优惠活动(2025年)](https://jumploop.github.io/cheap-vps-racknerd/)
+[https://bittly.cc/Vultr（优惠链接）](https://www.vultr.com/?ref=7521090)
+[赠送300 美元用于体验Vultr的平台](https://www.vultr.com/?ref=9655894-9J)
