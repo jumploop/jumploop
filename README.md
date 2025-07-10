@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 
 [赠送300 美元用于体验Vultr的平台](https://www.vultr.com/?ref=9655894-9J)
 
+[搬瓦工优惠码: BWHCGLUKKB (-6.77%)](https://bandwagonhost.com/aff.php?aff=78937&pid=44)
+
+优惠码: BWHCGLUKKB (-6.77%)
+
 **域名优惠**
 
 [NameSil0优惠链接](https://www.namesilo.com/domain/search-domains?rid=9ca7f87to)
