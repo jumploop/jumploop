@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 
 优惠码: BWHCGLUKKB (-6.77%)
 
+🚀机场 推荐：
+
+[69云机场，中转高速机场！🎁 每日签到免费送流量](https://69yun69.com/auth/register?code=dKhmtr)
+
 **域名优惠**
 
 [NameSil0优惠链接](https://www.namesilo.com/domain/search-domains?rid=9ca7f87to)
