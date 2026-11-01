@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jumploop&show_icons=true&theme=radical" alt="jumploop's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumploop&layout=compact&theme=radical&hide_border=true" /> |
-| ------------- | ------------- |
-
-
-
-### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jumploop)](https://github.com/ryo-ma/github-profile-trophy)
+### GitHub Stats
+<p align="center">
+  <a href="https://github.com/jumploop?tab=followers"><img src="https://img.shields.io/github/followers/jumploop?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/jumploop?tab=repositories"><img src="https://img.shields.io/github/repos/jumploop?style=for-the-badge&logo=github&label=Repositories" alt="Public repositories" /></a>
+  <a href="https://github.com/jumploop?tab=repositories"><img src="https://img.shields.io/github/stars/jumploop?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
+</p>
 
 🚀 **便宜VPS推荐** 🚀
 
