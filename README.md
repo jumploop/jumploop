@@ -1,44 +1,69 @@
-### Hi there 👋
+<div align="center">
+  <img src="./assets/banner.svg" alt="一叶知秋 - Python Developer" width="100%" />
+</div>
 
-<!--
-**jumploop/jumploop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">你好，我是一叶知秋 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Python 开发工程师</strong><br />
+  Web 开发 · 自动化运维 · 数据采集 · 效率工具
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### GitHub Stats
 <p align="center">
   <a href="https://github.com/jumploop?tab=followers"><img src="https://img.shields.io/github/followers/jumploop?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
   <a href="https://github.com/jumploop?tab=repositories"><img src="https://img.shields.io/github/repos/jumploop?style=for-the-badge&logo=github&label=Repositories" alt="Public repositories" /></a>
   <a href="https://github.com/jumploop?tab=repositories"><img src="https://img.shields.io/github/stars/jumploop?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
 </p>
 
-🚀 **便宜VPS推荐** 🚀
+---
 
-✅[RackNerd 高性价比便宜 VPS 最新优惠活动(2025年)](https://jumploop.github.io/cheap-vps-racknerd/)
+### 👨‍💻 关于我
 
-[https://bittly.cc/Vultr（优惠链接）](https://www.vultr.com/?ref=7521090)
+- 🔭 专注 **Python Web 开发、自动化脚本与效率工具**
+- 🌱 持续整理 **Python 学习资料、爬虫与工程实践**
+- 🧰 喜欢用简单可靠的方案，解决真实、重复的问题
+- 📚 相信好代码和好文档同样重要
 
-[赠送300 美元用于体验Vultr的平台](https://www.vultr.com/?ref=9655894-9J)
+### 🛠️ 技术栈
 
-[搬瓦工优惠码: BWHCGLUKKB (-6.77%)](https://bandwagonhost.com/aff.php?aff=78937&pid=44)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
+</p>
 
-优惠码: BWHCGLUKKB (-6.77%)
+### 🚀 代表项目
 
-🚀机场 推荐：
+| 项目 | 简介 |
+| --- | --- |
+| **[Python_Books](https://github.com/jumploop/Python_Books)** | Python 入门与进阶书籍、学习资料整理 |
+| **[book_demo](https://github.com/jumploop/book_demo)** | Django + Vue 前后端分离开发入门 |
+| **[animation_information](https://github.com/jumploop/animation_information)** | 按月份展示日本新番资讯与番剧列表 |
+| **[Write-high-quality-Python-code](https://github.com/jumploop/Write-high-quality-Python-code)** | 《编写高质量代码》示例整理，升级为 Python 3 |
+| **[Python3_WebSpider](https://github.com/jumploop/Python3_WebSpider)** | Python 3 爬虫练习与实战案例 |
+| **[cheap-vps-racknerd](https://github.com/jumploop/cheap-vps-racknerd)** | RackNerd 高性价比 VPS 优惠活动整理 |
 
-[69云机场，中转高速机场！🎁 每日签到免费送流量](https://69yun69.com/auth/register?code=dKhmtr)
+<p align="center">
+  <a href="https://github.com/jumploop?tab=repositories"><img src="https://img.shields.io/badge/查看全部项目-181717?style=for-the-badge&logo=github&logoColor=white" alt="查看全部项目" /></a>
+</p>
 
-**域名优惠**
+### 🧭 资源与推荐
 
-[NameSil0优惠链接](https://www.namesilo.com/domain/search-domains?rid=9ca7f87to)
-优惠码：xiaoming 
+- 🚀 [RackNerd 高性价比便宜 VPS 最新优惠活动](https://jumploop.github.io/cheap-vps-racknerd/)
+- ☁️ [Vultr 优惠链接](https://www.vultr.com/?ref=7521090) · [赠送 300 美元体验额度](https://www.vultr.com/?ref=9655894-9J)
+- 🧾 [搬瓦工优惠码 BWHCGLUKKB（-6.77%）](https://bandwagonhost.com/aff.php?aff=78937&pid=44)
+- 🌐 [69 云机场：每日签到免费送流量](https://69yun69.com/auth/register?code=dKhmtr)
+- 🔖 [NameSilo 域名优惠链接](https://www.namesilo.com/domain/search-domains?rid=9ca7f87to)，优惠码：`xiaoming`
+
+<p align="center">
+  <sub>感谢访问，欢迎从感兴趣的项目开始逛逛。</sub>
+</p>
