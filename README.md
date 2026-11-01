@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/jumploop?tab=followers"><img src="https://img.shields.io/github/followers/jumploop?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
-  <a href="https://github.com/jumploop?tab=repositories"><img src="https://img.shields.io/github/repos/jumploop?style=for-the-badge&logo=github&label=Repositories" alt="Public repositories" /></a>
+  <a href="https://github.com/jumploop?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjumploop&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=2EA043" alt="Public repositories" /></a>
   <a href="https://github.com/jumploop?tab=repositories"><img src="https://img.shields.io/github/stars/jumploop?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
 </p>
 
